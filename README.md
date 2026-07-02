@@ -4,7 +4,9 @@ A modern Contact Management application built with React, TypeScript, Zustand, M
 
 ## Live Demo
 
-## Vercel Deployment: https://contact-books.vercel.app/
+## Vercel Deployment (Frontend) : https://contact-books.vercel.app/
+
+## Render Deployment (Backend) : https://contact-book-nudq.onrender.com
 
 ## GitHub Repository: https://github.com/prathmeshaghao/contact-book
 

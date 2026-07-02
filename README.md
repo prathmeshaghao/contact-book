@@ -8,6 +8,9 @@ A modern Contact Management application built with React, TypeScript, Zustand, M
 
 ## Render Deployment (Backend) : https://contact-book-nudq.onrender.com
 
+> Note:
+> The backend is hosted on Render's free tier. The first request may take 30–60 seconds if the service is waking up after inactivity.
+
 ## GitHub Repository: https://github.com/prathmeshaghao/contact-book
 
 ## Project Overview
